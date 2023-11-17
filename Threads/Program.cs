@@ -10,7 +10,7 @@ namespace Threads
 
 
         /// <summary>
-        /// 
+        /// txt file path
         /// </summary>
         public const string path = @"C:\Users\mReza\source\repos\Threads\Threads\ListProducts.txt";
 
